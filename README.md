@@ -30,9 +30,9 @@ cupp.py: 强大的字典生成脚本。它是一款用python语言写成的可�
 
 在cupp.cfg文件中进行相关配置
 
-作者：
+## **作者**：
 
-Muris Kurgas aka j0rgan
-j0rgan@remote-exploit.org
-http://www.remote-exploit.org
-http://www.azuzi.me
+Muris Kurgas aka j0rgan  \n
+j0rgan@remote-exploit.org  \n
+http://www.remote-exploit.org  \n
+http://www.azuzi.me   \n
